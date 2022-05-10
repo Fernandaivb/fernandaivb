@@ -1,10 +1,10 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-My name is Fernanda. I am currently a software engineering student at Embry Riddle Aernoautical University, who is passionate about writing code and drinking coffee.
+My name is Fernanda. I am currently a Software Engineering student at Embry-Riddle Aeronautical University, who is passionate about writing code and drinking coffee.
 
-❤️ I love writing code and reading it
-📚 I’m currently learning React JS and MongoDB
-👯 I’m looking to become more participatory in the community
+❤️ I love writing code and reading it <br>
+📚 I’m currently learning ReactJS and MongoDB <br>
+👯 I’m looking to become more participatory in the community <br>
 
 ## Technologies I am familiar with
 <p align="center">
